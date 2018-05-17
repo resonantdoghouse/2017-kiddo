@@ -1,7 +1,0 @@
-{
-  "name": "resonantdoghouse/2017-kiddo",
-  "type": "kiddo-theme",
-  "require": {
-      "composer/installers": "~1.0"
-  }
-}
